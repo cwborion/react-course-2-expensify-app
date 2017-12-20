@@ -17,3 +17,5 @@ const ExpenseListItem = ({ id, description, amount, createdAt }) => (
 );
 
 export default ExpenseListItem;
+
+// may need to rewatch lecture 138 for steps to fully deploy
